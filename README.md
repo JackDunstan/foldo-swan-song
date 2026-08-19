@@ -1,6 +1,6 @@
 # foldo-swan-song
 
-**SWT101 — Swans with towels**, a one-page parody microcredential from
+**SWT101 — Swans with towels**, a one-page parody nanocredential from
 *IOU*: fold one (1) hotel towel into one (1) swan, across six folds,
 self-assessed and unmoderated. Accredited by no one.
 
